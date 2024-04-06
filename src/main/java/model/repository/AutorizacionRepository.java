@@ -12,7 +12,6 @@ public class AutorizacionRepository {
     // pero guarda la direccion dentro del proyecto no dentro del disco
     private StackList<RegistroExamen> examenesPorAutorizar;
 
-
     /**
      * Constructor de la clase RegistroExamenRepository
      */

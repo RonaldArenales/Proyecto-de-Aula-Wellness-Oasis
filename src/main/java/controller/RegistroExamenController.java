@@ -29,10 +29,10 @@ public class RegistroExamenController {
         // Aquí podrías realizar más lógica relacionada con la creación o manipulación de registros de examen
     }
 
-    //Metodo para cambiar el boolean autorizado a true
+    
 
-    public void actualizarAutorizacionExamen(RegistroExamen registroExamen) {
-        registroExamenRepository.actualizarAutorizacionExamen(RegistroExamen registroExamen);
+    public void autorizarExamen() {
+
     }
 
 }
